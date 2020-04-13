@@ -1,0 +1,2 @@
+rootProject.name='Level6example'
+include ':app'
